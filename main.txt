@@ -1,0 +1,3 @@
+#main
+Hello, My na me is Bhargav Pattanayak. I am B.tech 2nd year student
+This is how my journey begins in git and github
